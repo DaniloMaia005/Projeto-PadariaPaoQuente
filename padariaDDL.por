@@ -10,11 +10,11 @@ programa
 		  	cadeia nomeProduto,valorProduto, quantProduto, custoProduto
 		cadeia matriz
 		[4][5]
-		matriz[0][0]="Prod"
+		matriz[0][0]="Prod:"
 		matriz[0][1]="R$"
-		matriz[0][2]="Cod"
-		matriz[0][3]="Quant"
-		matriz[0][4]="Custo"
+		matriz[0][2]="Cod:"
+		matriz[0][3]="Quant:"
+		matriz[0][4]="Custo:"
 	//	real somaDeProdutos=0.0 , valorTemp=0.0
 
 		escreva("********** Bem vindo(a) a padaria Pão Quente **********\n")
